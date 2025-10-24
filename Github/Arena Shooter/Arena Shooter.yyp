@@ -14,6 +14,7 @@
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":3,},
     {"id":{"name":"Wolveriens","path":"sprites/Wolveriens/Wolveriens.yy",},"order":4,},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},"order":1,},
+    {"id":{"name":"Smiley","path":"sprites/Smiley/Smiley.yy",},"order":5,},
     {"id":{"name":"fnt_score","path":"fonts/fnt_score/fnt_score.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
