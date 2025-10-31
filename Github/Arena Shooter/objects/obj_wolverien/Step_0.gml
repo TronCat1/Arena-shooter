@@ -9,7 +9,7 @@ image_angle = direction;
 //Killed if object is below 0 hp
 if (hp) <= 0
 {
-	with(obj_score) thescore = thescore + 5;
+	with(obj_score) thescore = thescore + 10;
 	instance_destroy();
 }
 

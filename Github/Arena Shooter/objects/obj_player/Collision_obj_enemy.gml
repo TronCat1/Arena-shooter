@@ -1,4 +1,10 @@
 /// @description death
+with (other) 
+{
+	hp = hp -1;
+}
 
-game_restart();
-
+if (hp) <=0
+{
+	instance_destroy()
+}

@@ -12,7 +12,7 @@
     {"id":{"name":"Music_Ingame_2","path":"sounds/Music_Ingame_2/Music_Ingame_2.yy",},"order":0,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":3,},
-    {"id":{"name":"Wolveriens","path":"sprites/Wolveriens/Wolveriens.yy",},"order":4,},
+    {"id":{"name":"spr_Wolverien","path":"sprites/spr_Wolverien/spr_Wolverien.yy",},"order":4,},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},"order":1,},
     {"id":{"name":"Smiley","path":"sprites/Smiley/Smiley.yy",},"order":5,},
     {"id":{"name":"obj_wolverien","path":"objects/obj_wolverien/obj_wolverien.yy",},"order":5,},
