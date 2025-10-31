@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_score",
-  "spriteId": null,
+  "spriteId": {
+    "name": "Smiley",
+    "path": "sprites/Smiley/Smiley.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
