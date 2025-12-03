@@ -1,5 +1,5 @@
 /// @description Bullet Cooldown
-hp = 10
+hp = 100
 max_hp = 100;
 //cooldown
 cooldown = 0;
